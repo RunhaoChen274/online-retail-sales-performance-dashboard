@@ -229,6 +229,7 @@ The dashboard provides structured reporting views to monitor sales performance, 
 ---
 
 ### Page 1 — Sales Overview
+![Sales Overview](screenshots/page1_sales_overview.png)
 
 This page provides a high-level summary of overall business performance.
 
@@ -244,6 +245,7 @@ A monthly revenue trend chart is used to visualize performance changes over time
 ---
 
 ### Page 2 — Product Performance
+![Product Performance](screenshots/page2_product_performance.png)
 
 This page identifies top-performing products based on revenue and sales volume.
 
@@ -256,6 +258,7 @@ Key elements include:
 ---
 
 ### Page 3 — Country Performance
+![Country Performance](screenshots/page3_country_performance.png)
 
 This page evaluates revenue distribution across geographic markets.
 
@@ -268,7 +271,7 @@ Key elements include:
 ---
 
 ### Page 4 — Data Quality Monitoring
-
+![Data Quality](screenshots/page4_data_quality.png)
 This page monitors data quality issues that may affect reporting reliability and transparency.
 
 Key indicators include:
